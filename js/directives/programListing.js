@@ -7,4 +7,3 @@ app.directive('programListing', function() {
     templateUrl: 'js/directives/installApp.html' 
   }; 
 });
-
